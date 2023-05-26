@@ -31,7 +31,7 @@ var capabilities = {
     .build();
 
   try {
-    await driver.get('https://adarshts.github.io/percy-web-demo/', 1000);
+    await driver.get('http://127.0.0.1:5500/', 1000);
     await percySnapshot(driver, 'Homepage');
 
     await driver.wait(webdriver.until.elementLocated(By.xpath("//a[text()='Designers']"))).click();
