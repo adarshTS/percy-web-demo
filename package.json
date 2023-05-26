@@ -1,0 +1,15 @@
+{
+  "name": "percy-web-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npx percy exec -- node tests/visualTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
