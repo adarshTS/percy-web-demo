@@ -1616,7 +1616,7 @@ a {
 .w3-red,
 .w3-hover-red:hover {
     color: #fff !important;
-    background-color: blue !important
+    background-color: #3f51b5 
 }
 
 .w3-sand,
@@ -1786,7 +1786,7 @@ a {
 
 .w3-text-red,
 .w3-hover-text-red:hover {
-    color: #f44336 !important
+    color: #365cf4 !important
 }
 
 .w3-text-sand,
@@ -1924,7 +1924,7 @@ a {
 
 .w3-border-red,
 .w3-hover-border-red:hover {
-    border-color: #f44336 !important
+    border-color: #3659f4 !important
 }
 
 .w3-border-sand,
