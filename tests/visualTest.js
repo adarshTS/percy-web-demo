@@ -10,7 +10,6 @@ var capabilities = {
 	'bstack:options' : {
 		"os" : "OS X",
 		"osVersion" : "Ventura",
-		"browserVersion" : "16.0",
 		"projectName" : "bstack_sample",
 		"local" : "true",
 		"debug" : "true",
@@ -20,7 +19,7 @@ var capabilities = {
 		"accessKey" : process.env.BROWSERSTACK_ACCESS_KEY,
 		// "localIdentifier" : process.env.BROWSERSTACK_LOCAL_IDENTIFIER
 	},
-	"browserName" : "Safari",
+	"browserName" : "Chrome",
 }
 
 const bs_local = new browserstack.Local();
