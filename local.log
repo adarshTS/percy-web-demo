@@ -1,5 +1,5 @@
 
 
-Tue May 30 2023 12:50:14:621 GMT+0530 (IST) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 12464
-Tue May 30 2023 12:50:14:833 GMT+0530 (IST) -- [SUCCESS] You can now access your local server(s) in our remote browser
+Wed May 31 2023 18:10:20:586 GMT+0530 (IST) -- [WARNING] Detected instance of BrowserStackLocal Application, running in onlyAutomate mode to avoid port clash
+Wed May 31 2023 18:10:23:951 GMT+0530 (IST) -- [SUCCESS] You can now access your local server(s) in our remote browser
 
